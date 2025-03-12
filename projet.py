@@ -6,4 +6,3 @@ if Data:
 else:
 	print("dossier vide")
 
-XXXXXXX
